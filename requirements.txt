@@ -1,0 +1,4 @@
+requests
+pandas
+shapely
+python-dotenv
