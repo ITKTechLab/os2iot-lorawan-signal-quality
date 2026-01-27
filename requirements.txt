@@ -1,4 +1,5 @@
-requests
+geopandas
 pandas
-shapely
 python-dotenv
+requests
+shapely
